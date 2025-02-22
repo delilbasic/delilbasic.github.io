@@ -8,7 +8,19 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can refer to my LinkedIn page for an updated list.
+
+Work experience
+======
+
+* Doctoral Researcher, Forschungszentrum Jülich, Germany
+* Visiting Researcher, ESRIN, ESA, Italy
+
+Education
+======
+
+* PhD in Computational Engineering, University of Iceland (Apr 2022 - present)
+* MSc in Information and Communication Engineering, University of Trento (Sep 2019 - Dec 2021)
+* BSc in Information and Communication Engineering, University of Trento (Sep 2017 - Sep 2019)
 
 Publications
 ======

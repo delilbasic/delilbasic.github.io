@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amer Delilbasic"
 title_separator          : "-"
 name                     : &name "Amer Delilbasic"
-description              : &description "personal description"
+description              : &description "Research Scientist"
 url                      : https://delilbasic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "delilbasic/delilbasic.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Amer Delilbasic"
-  avatar           : "profile.png"
-  bio              : "Doctoral Researcher, Forschungszentrum Jülich"
+  avatar           : "delilbasic.png"
+  bio              : "Doctoral Researcher, Forschungszentrum Jülich & University of Iceland"
   location         : "Cologne, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "a.delilbasic@fz.juelich.de"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sVbb27EAAAA&user=NJF9THEAAAAJ"
+  email            : 
   researchgate     : "https://www.researchgate.net/profile/Amer-Delilbasic"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DelilbasicAmer"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
